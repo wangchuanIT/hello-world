@@ -1,4 +1,4 @@
 # hello-world
-hellp github
+hello github
 
 Hi,i made a change!
